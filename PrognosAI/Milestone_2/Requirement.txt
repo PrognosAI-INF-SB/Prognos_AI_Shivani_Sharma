@@ -1,0 +1,8 @@
+● Python – Core programming language
+● Pandas, NumPy – Data processing
+● Matplotlib, Seaborn – Visualization
+● TensorFlow / Keras – LSTM model training
+● Scikit-learn – Metrics & preprocessing
+● Streamlit / Flask – Dashboard or API interface
+● Docker – Optional deployment
+● NASA CMAPSS Dataset – Source data
